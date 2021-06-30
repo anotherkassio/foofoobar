@@ -1,1 +1,3 @@
 # smallrepo
+
+foo
