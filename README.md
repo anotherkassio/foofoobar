@@ -1,6 +1,5 @@
 # smallrepo
 
-foo
 bar
 baz
 xpto
